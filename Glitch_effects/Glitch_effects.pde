@@ -3,8 +3,8 @@ PImage g;
 PImage s;
 void setup() {
   //img = loadImage("Logo.png");
-  g = loadImage("g.jpg");
-  s = loadImage("Untitled.png");
+  g = loadImage("https://kevinwh0.github.io/GlitchEffects/Glitch_effects/g.jpg");
+  //s = loadImage("Untitled.png");
 
   //size(500,500);
   fullScreen();
